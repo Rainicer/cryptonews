@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "cryptnews-20220725"
+---
 1、2022 Q2 1inch总交易量首次超越Uniswap，达310亿美元
 2、Robinhood前Web3负责人Sriram Bhargav履新GameStop工程副总裁
 3、数字钱包运营商TNG Digital完成约1.68亿美元融资，Lazada等领投
