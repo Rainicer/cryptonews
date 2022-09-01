@@ -21,13 +21,11 @@
 title: Cryptonews
 email: Noramer@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cryptocurrency is an ideal currency of the test, now no one can predict the future of cryptocurrency, it may succeed, it may   also fail, of course, the ideal currency in each mind is not the same, but the existing monetary system is indeed very disappointing, technology is progressing, advanced technology if used for the common human welfare is a fortunate thing, and advanced technology if used to meet personal desires, then it is a great misfortune, but advanced technology is still promoting the improvement of productivity, It is a privilege to experience this change, let us witness the changes brought by the change of technology to human society! Respects pioneers! Respect for people full of ideals!
 baseurl: "/cryptonews" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: riniyager
-github_username:  Noramerer
+github_username:  Noramer
 
 # Build settings
 theme: minima
