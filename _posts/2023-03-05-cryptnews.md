@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "cryptnews-20230217"
+title:  "cryptnews-20230305"
 ---
-1、美SEC已起诉Terraform Labs与Do Kwon策划数十亿美元加密资产证券欺诈  
-2、Unstoppable Domains与加密浏览器Opera合作扩展数字身份产品  
-3、数字资产行业协会GBBC Digital Finance加入国际证监会组织（IOSCO）  
-4、PUMA公布「Super PUMA PFP」发行计划，每枚铸造价格为0.15ETH  
-5、金融合约平台UMA与Snapshot合作推出基于链下投票决策进行链上交易的DAO工具oSnap  
-6、美国加州金融保护与创新部发布加密诈骗追踪器  
-7、乌兹别克斯坦允许外国企业在当地银行开户并存入加密交易资金，但资金用途受限  
-8、WSJ：Bitcoin Core首席维护者已于本周四离职，当前仅5人拥有比特币代码修改权限  
-9、挪威当局查获价值约600万美元Ronin Network被盗案中加密货币  
-10、WSJ：在美国监管打击下银行正在切断与加密领域的联系  
+1、Alpha Homora公开向Iron Bank提出坏账解决方案，包括退回非以太坊链上的用户资金  
+2、全国人大代表建议：防范虚拟货币风险，明确制作和发售数字代币的法律责任  
+3、VeChain基金会计划今年推出无代码Web3服务平台VORJ  
+4、私有分片网络Calimero推出基于Near的区块链框架并启动Beta测试  
+5、Yuga Labs NFT系列TwelveFold拍卖将于北京时间3月6日开始，持续24小时  
+6、受“Lido收到SEC韦尔斯通知”传闻影响，LDO一度下跌10%  
+7、Bybit停止接受银行转账美元存款，称合作伙伴“服务中断”  
+8、Coinbase协议负责人：过去一年一直在快速迭代其NFT平台  
+9、Multicoin Capital回应基金亏损91.4%：已采取新措施来“减轻交易对手风险”  
+10、以色列税务机构指控“Western Wall”NFT创造者涉嫌逃税200万美元  
